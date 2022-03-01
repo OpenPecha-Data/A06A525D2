@@ -1,0 +1,22 @@
+segment_sources:
+  PB6326D12:
+    type: origin_type
+    relation: translation
+    language: en
+  P00A4DF64:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  013d85516d1547a4bc0bece62bde968d:
+    PB6326D12: f7ca467deca34f0d888a3fb14bf85725
+    P00A4DF64: 1e099a71a8ff41cc84b13183f3b59860
+  fda92483c75c47da83643ed4928a6b7b:
+    PB6326D12: 5d92316cd0724c59bc4ca629979a7bd8
+    P00A4DF64: f2c7f0bafede44dd91c3847b88bbbb28
+  f870c87f3f944c81ae54f75c66fefad1:
+    PB6326D12: 2273ba028be84421b3a1d7ffa4d2d20b
+    P00A4DF64: 6b949512b69e4f0fbf38ff33dab519c1
+  30ab4dc5d35f4bceb8b0165182af566e:
+    PB6326D12: ed490da31a424420a9b57599f27d71a9
+    P00A4DF64: 7f3031286b96459b94ef6aedf3002dc7

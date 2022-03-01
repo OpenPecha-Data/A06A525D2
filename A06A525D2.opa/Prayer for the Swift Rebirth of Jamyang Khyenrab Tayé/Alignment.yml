@@ -1,0 +1,31 @@
+segment_sources:
+  PB6326D12:
+    type: origin_type
+    relation: translation
+    language: en
+  P00A4DF64:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  eb3673be005e42ac9d8746070971bea5:
+    PB6326D12: 541126947c074c08a9f32dda49d16bfd
+    P00A4DF64: 0a44b362fc9a43b696f262bb8e3b60b3
+  c962e7d16f4e4e50a2ddf3ef68ee7899:
+    PB6326D12: 2f92a854603e4368b578fdfb4c2afb88
+    P00A4DF64: a0d7cfba60144635b56e811c04067d3e
+  8cd2a9689c4944eca61f79c0776f35e7:
+    PB6326D12: 8c53426fd08f4a62be1f525a1af839f3
+    P00A4DF64: 7975698a17d848c78aaa6e9f4782a510
+  f523c23b9880426b848560cfdede9d5a:
+    PB6326D12: d2db7d4778cb47fc97e4e382bfd05836
+    P00A4DF64: ec8c2792e10f4c3ca7aa2bc384047fa4
+  2c75e7b57ab946daaa351f3f20e72cd6:
+    PB6326D12: 4de1a729a6eb42f98fd677b6b6051748
+    P00A4DF64: 89127dfb0ba34eb583a7d2538f54d9dc
+  a80aa46966d243f39ce554b5dd45c537:
+    PB6326D12: e71df47e3aff46ee9b31e3a4f8d14ead
+    P00A4DF64: eca95fb83a1145e8a7d0fcfedb961541
+  182cd7595c794f3797021bc4ff67b094:
+    PB6326D12: ea8fdceeee97443599740e9b82169583
+    P00A4DF64: e3300dec158a48378328c05af7f7ddf4

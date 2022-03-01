@@ -1,0 +1,58 @@
+segment_sources:
+  PB6326D12:
+    type: origin_type
+    relation: translation
+    language: en
+  P32F1D4D6:
+    type: origin_type
+    relation: translation
+    language: de
+  PF4FF6FF5:
+    type: origin_type
+    relation: translation
+    language: zh
+  P00A4DF64:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  d42de6068d03465ba08ecd7160b52100:
+    PB6326D12: cfbfc92b73e14a88bf41650f8b0e1dc9
+    P32F1D4D6: 73e44aa7c635433e8c0ad8b355e98db1
+    PF4FF6FF5: ceee675eefe44903b1702dcf3d10b5bb
+    P00A4DF64: bab5b8b90259491ab4bad2671aa5ed08
+  e887a47253d945d396e4c25591197bbc:
+    PB6326D12: 1f43204f02d744feb0c3677e19322b99
+    P32F1D4D6: 3b3f6a24164b4c20a35f2943f6c0e573
+    PF4FF6FF5: 750bbbe4c6394c2ea3964121a7c113ee
+    P00A4DF64: 4c08cbe0e0544dc9857d1b877217a99d
+  ef332062ce6a4036ae393fd636ae62e3:
+    PB6326D12: 8a91aaa8f77242b1a3f32a8025e07cf8
+    P32F1D4D6: b8dff2b75535498e87bd132c24b6819a
+    PF4FF6FF5: c7a47135b3064e3bb4deb309d31e60fa
+    P00A4DF64: a5972deeaf6d487aaa44935a4ccaed9d
+  711faa8725ea41cfb8db2883cf4395ab:
+    PB6326D12: a2790160edd641a3bef57bd63d70890c
+    P32F1D4D6: 53bea82fd0b6470aa1aca962c0c0a79c
+    PF4FF6FF5: 0abbc1b5a1a449a9a80f68410f86384e
+    P00A4DF64: 4c50aec238c14d669ae7f9ddf5775e77
+  f9728fb30f4c4cb98c24d593217f0f2d:
+    PB6326D12: 0f9fbf90bd7c443aa5715a824ca2ac86
+    P32F1D4D6: 72eac8bb40974afcbbd0df8d4bb3976e
+    PF4FF6FF5: d2c66a2a1b984485b8ccae5ce05877db
+    P00A4DF64: ab91d9a054d84d4f8a2bae6238bfe256
+  1baf6e603ade451dbe9a7f04f8bda234:
+    PB6326D12: 320c8e4565dd40a88e31e5aa01fd43a4
+    P32F1D4D6: c270f1ee1fd145da90865690f4adec9a
+    PF4FF6FF5: ecd5019df34f469b9e88eb6df8c329ed
+    P00A4DF64: f28d44a2e4d94e3e83decf6a1dd37560
+  0b80c108e3484ceb837ed61d8c03c957:
+    PB6326D12: 269f023395be4cc5bb6d776911aed0aa
+    P32F1D4D6: f9eaa72e614f4027a3eda01144f8fd34
+    PF4FF6FF5: 2c0cd30ec4424bd482db77de34c29bd8
+    P00A4DF64: 01aa71e2b3bb4d8995594bfe2a031b97
+  ba55945c32264d4b86e6d567f8371277:
+    PB6326D12: c8be2bbc5929461484b3729452c9b676
+    P32F1D4D6: f3db216bb371414b9521d6103362f322
+    PF4FF6FF5: 567f13bcc6fd4b97963c144ed970bdf6
+    P00A4DF64: 617d1a4cc7ba4b63940dbd3f510297fa
